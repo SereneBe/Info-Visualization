@@ -1,0 +1,47 @@
+h1 {
+	/*width: 500pt;*/
+	/*font-family: 'Your Desired Font', sans-serif;*/
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+
+label {
+	text-align: center;
+}
+
+#legend-container {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+/*#search-bar-choices::-webkit-calendar-picker-indicator {
+    display: none;
+}
+
+#search-bar-choices {
+    overflow-y: scroll;
+}*/
+
+.connected-node {
+  /*stroke: black;*/
+  /*stroke-width: 2;*/
+  opacity: 1 !important; /* Ensure this overrides any other opacity styles */
+}
+
+.connected-link {
+  stroke: red; // Adjust the color as needed
+  stroke-width: 2;
+}
+
+#detail-info-card .title {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#detail-info-card .subtitle {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/*#search-container {
+      border: 1px solid #ccc;
+      border-radius: 5px; 
+      padding: 5px; 
+    }*/
